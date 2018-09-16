@@ -1,0 +1,19 @@
+{
+  "name": "dist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "gh-pages": "^1.2.0",
+    "npm": "^6.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "homepage": "https://ghnana.github.io/myrestaurant",
+  "license": "ISC"
+  
+}
